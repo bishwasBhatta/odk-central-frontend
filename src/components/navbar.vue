@@ -18,11 +18,11 @@ except according to the terms contained in the LICENSE file.
             data-toggle="collapse" data-target=".navbar-collapse"
             aria-expanded="false">
             <span class="sr-only">{{ $t('action.toggle') }}</span>
-            <span class="navbar-icon-bar"></span>
-            <span class="navbar-icon-bar"></span>
+            <span class="bar-icon-bar"></span>
+            <span class="bar-icon-bar"></span>
             <span class="navbar-icon-bar"></span>
           </button>
-          <router-link to="/" class="navbar-brand">ODK Central</router-link>
+          <router-link to="/" class="navbar-brand">IHL Data Collector</router-link>
         </div>
         <div class="collapse navbar-collapse">
           <navbar-links v-if="loggedIn"/>
