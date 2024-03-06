@@ -22,7 +22,7 @@ either is an Administrator or has no role. -->
       </button>
       <i18n-t tag="p" keypath="heading[0]">
         <template #collect>
-          <doc-link to="collect-intro/">ODK Collect</doc-link>
+          <doc-link to="collect-intro/">IHL Collect</doc-link>
         </template>
       </i18n-t>
     </div>
@@ -194,7 +194,7 @@ export default {
       "create": "Create Web User"
     },
     "heading": [
-      // {collect} is a link whose text is "ODK Collect".
+      // {collect} is a link whose text is "IHL Collect".
       "Web Users have accounts on this website to oversee and administer the Projects on this server. Administrators can manage anything on the site. Users with no Sitewide Role can be given a Role on any Project, from that Project’s settings. Sitewide Administrators and some Project Roles can use a web browser to fill out Forms. To submit data through an application such as {collect}, create App Users for each Project."
     ],
     "header": {
