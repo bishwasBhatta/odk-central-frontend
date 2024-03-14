@@ -19,7 +19,7 @@ export const watchSync = (source, callback, options = undefined) =>
 export const setDocumentTitle = (title) => watchEffect(() => {
   // Append ODK Central to every title, filter out any null values (e.g. project
   // name before the project object was loaded), join with separator.
-  document.title = title().concat('ODK Central').filter(x => x).join(' | ');
+  document.title = title().concat('IHL Data Collector').filter(x => x).join(' | ');
 });
 
 
