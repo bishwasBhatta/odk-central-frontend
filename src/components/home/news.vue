@@ -14,8 +14,7 @@ except according to the terms contained in the LICENSE file.
     <template #heading>
       <span>{{ $t('title') }}</span>
     </template>
-    <template #body>
-      <iframe src="https://getodk.github.io/central/news.html" :title="$t('title')"></iframe>
+    <template #body>      
     </template>
   </page-section>
 </template>
