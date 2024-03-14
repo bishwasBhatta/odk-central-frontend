@@ -28,17 +28,8 @@ except according to the terms contained in the LICENSE file.
       </home-summary-item>
     </div>
     <div>
-      <home-summary-item to="https://docs.getodk.org/central-intro/"
-        icon="book">
-        <template #title>{{ $t('common.docs') }}</template>
-        <template #body>{{ $t('docs.body') }}</template>
-      </home-summary-item>
     </div>
     <div>
-      <home-summary-item to="https://forum.getodk.org/" icon="comments-o">
-        <template #title>{{ $t('common.forum') }}</template>
-        <template #body>{{ $t('forum.body') }}</template>
-      </home-summary-item>
     </div>
   </div>
 </template>
@@ -98,7 +89,7 @@ if (currentUser.can('user.list'))
 {
   "en": {
     "projects": {
-      "body": "Central is organized into Projects, which each contain their own Forms and related data."
+      "body": "IHL Data Collector is organized into Projects, which each contain their own Forms and related data."
     },
     "users": {
       "body": "Users can be assigned to Projects to manage them, or to collect or review submitted data."
@@ -118,7 +109,7 @@ if (currentUser.can('user.list'))
 {
   "cs": {
     "projects": {
-      "body": "Central je organizován do Projektů, které obsahují vlastní Formuláře a související data."
+      "body": "IHL Data Collector je organizován do Projektů, které obsahují vlastní Formuláře a související data."
     },
     "users": {
       "body": "Uživatelé mohou být přiřazeni k projektům, aby je mohli spravovat nebo shromažďovat či kontrolovat předložená data."
@@ -132,7 +123,7 @@ if (currentUser.can('user.list'))
   },
   "de": {
     "projects": {
-      "body": "Central ist in Projekte organisiert, die jeweils ihre eigenen Formulare und zugehörigen Daten enthalten."
+      "body": "IHL Data Collector ist in Projekte organisiert, die jeweils ihre eigenen Formulare und zugehörigen Daten enthalten."
     },
     "users": {
       "body": "Benutzer können Projekten zugewiesen werden, um sie zu verwalten oder eingereichte Daten zu sammeln oder zu überprüfen."
@@ -146,7 +137,7 @@ if (currentUser.can('user.list'))
   },
   "es": {
     "projects": {
-      "body": "Central está organizado en Proyectos, cada uno de los cuales contiene sus propios Formularios y datos relacionados."
+      "body": "IHL Data Collector está organizado en Proyectos, cada uno de los cuales contiene sus propios Formularios y datos relacionados."
     },
     "users": {
       "body": "Los usuarios pueden asignarse a Proyectos para administrarlos o para recopilar o revisar los datos enviados."
@@ -160,7 +151,7 @@ if (currentUser.can('user.list'))
   },
   "fr": {
     "projects": {
-      "body": "Central est organisé en projets, chacun contenant ses propres formulaires et données associées."
+      "body": "IHL Data Collector est organisé en projets, chacun contenant ses propres formulaires et données associées."
     },
     "users": {
       "body": "Les utilisateurs peuvent être assignés à des projets pour les gérer, ou pour collecter ou réviser les données soumises."
@@ -174,7 +165,7 @@ if (currentUser.can('user.list'))
   },
   "it": {
     "projects": {
-      "body": "Central è organizzato in Progetti, ognuno dei quali contiene i propri Formulari e i relativi dati."
+      "body": "IHL Data Collector è organizzato in Progetti, ognuno dei quali contiene i propri Formulari e i relativi dati."
     },
     "users": {
       "body": "Gli utenti possono essere assegnati ai progetti per gestirli o per raccogliere o rivedere i dati inviati."
@@ -188,7 +179,7 @@ if (currentUser.can('user.list'))
   },
   "sw": {
     "projects": {
-      "body": "Central imepangwa katika Miradi, ambayo kila moja ina Fomu zake na data zinazohusiana."
+      "body": "IHL Data Collector imepangwa katika Miradi, ambayo kila moja ina Fomu zake na data zinazohusiana."
     },
     "users": {
       "body": "Watumiaji wanaweza kupewa Miradi ili kuisimamia, au kukusanya au kukagua data iliyowasilishwa."
