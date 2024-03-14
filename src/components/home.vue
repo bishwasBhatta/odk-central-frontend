@@ -72,7 +72,7 @@ const config = inject('config');
 {
   "en": {
     "heading": [
-      "Welcome to Central."
+      "Welcome to IHL Data Collector."
     ]
   }
 }
@@ -83,37 +83,37 @@ const config = inject('config');
 {
   "cs": {
     "heading": [
-      "Vítejte v Centralu."
+      "Vítejte v IHL Data Collector."
     ]
   },
   "de": {
     "heading": [
-      "Willkommen bei Central"
+      "Willkommen bei IHL Data Collector."
     ]
   },
   "es": {
     "heading": [
-      "Bienvenido a Central."
+      "Bienvenido a IHL Data Collector."
     ]
   },
   "fr": {
     "heading": [
-      "Bienvenue sur Central"
+      "Bienvenue sur IHL Data Collector."
     ]
   },
   "id": {
     "heading": [
-      "Selamat datang di Central."
+      "Selamat datang di IHL Data Collector."
     ]
   },
   "it": {
     "heading": [
-      "Benvenuto su Central"
+      "Benvenuto su IHL Data Collector"
     ]
   },
   "sw": {
     "heading": [
-      "Karibu Central"
+      "Karibu IHL Data Collector"
     ]
   }
 }
