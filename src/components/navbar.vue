@@ -253,7 +253,7 @@ $border-height: 3px;
       // Used by screen readers to describe the button used to show or hide the navigation bar on small screens ("hamburger menu").
       "toggle": "Toggle navigation"
     },
-    "analyticsNotice": "Help improve Central!"
+    "analyticsNotice": "Help improve IHL Data Collector!"
   }
 }
 </i18n>
@@ -265,49 +265,49 @@ $border-height: 3px;
     "action": {
       "toggle": "Přepnout navigaci"
     },
-    "analyticsNotice": "Pomozte zlepšit Central!"
+    "analyticsNotice": "Pomozte zlepšit IHL Data Collector!"
   },
   "de": {
     "action": {
       "toggle": "Navigation umschalten"
     },
-    "analyticsNotice": "Hilf Central zu verbessern!"
+    "analyticsNotice": "Hilf IHL Data Collector zu verbessern!"
   },
   "es": {
     "action": {
       "toggle": "Alternar la navegación"
     },
-    "analyticsNotice": "Ayuda a mejorar Central"
+    "analyticsNotice": "Ayuda a mejorar IHL Data Collector"
   },
   "fr": {
     "action": {
       "toggle": "Basculer la navigation"
     },
-    "analyticsNotice": "Aidez à améliorer Central !"
+    "analyticsNotice": "Aidez à améliorer IHL Data Collector !"
   },
   "id": {
     "action": {
       "toggle": "Navigasi Toggle"
     },
-    "analyticsNotice": "Bantu Memperbaiki Central!"
+    "analyticsNotice": "Bantu Memperbaiki IHL Data Collector!"
   },
   "it": {
     "action": {
       "toggle": "Attiva/disattiva navigazione"
     },
-    "analyticsNotice": "Aiuta a migliorare Central"
+    "analyticsNotice": "Aiuta a migliorare IHL Data Collector"
   },
   "ja": {
     "action": {
       "toggle": "ナビゲーションを有効化"
     },
-    "analyticsNotice": "Centralの改善を支援！"
+    "analyticsNotice": "IHL Data Collectorの改善を支援！"
   },
   "sw": {
     "action": {
       "toggle": "Geuza urambazaji"
     },
-    "analyticsNotice": "Saidia kuboresha Central"
+    "analyticsNotice": "Saidia kuboresha IHL Data Collector"
   }
 }
 </i18n>
