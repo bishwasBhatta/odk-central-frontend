@@ -10,23 +10,6 @@ including this file, may be copied, modified, propagated, or distributed
 except according to the terms contained in the LICENSE file.
 -->
 <template>
-  <li id="navbar-help-dropdown" class="dropdown">
-    <a class="dropdown-toggle" href="#" data-toggle="dropdown" role="button"
-      :aria-label="$t('help')" aria-haspopup="true" aria-expanded="false">
-      <span class="icon-question-circle"></span><span class="caret"></span>
-    </a>
-    <ul class="dropdown-menu">
-      <li>
-        <doc-link to="central-intro/">{{ $t('common.docs') }}</doc-link>
-      </li>
-      <li>
-        <a href="https://forum.getodk.org/" target="_blank">{{ $t('common.forum') }}</a>
-      </li>
-      <li>
-        <a href="/version.txt" target="_blank">{{ $t('common.version') }}</a>
-      </li>
-    </ul>
-  </li>
 </template>
 
 <script setup>
